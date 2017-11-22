@@ -1,0 +1,231 @@
+
+#header {
+    background: url(../images/first-bg.png) no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 960px;
+    position: relative;
+}
+
+.logo{
+	margin-top: 40px;
+}
+.logo h1{
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+
+
+
+.navbar_main {
+    border: none;
+    margin-top: 20px;
+    background: transparent;
+}
+
+.navbar_main .navbar-nav > li > a {
+    padding: 16px 41px;
+    font-family: 'Ubuntu';
+    font-size: 15px;
+    color: white !important;
+    font-weight: normal;
+}
+
+.navbar_main .navbar-nav > li > a:focus {}
+
+
+.social_icon {
+    margin-top: 20px;
+    border: none;
+    border-radius: none;
+}
+
+.social_icon .navbar-nav li a {
+    color: white;
+    padding: 14px 20px;
+    font-size: 16px;
+    background: transparent;
+}
+
+.header_content .header_heading {
+    padding-top: 245px;
+}
+
+
+.header_content h2 {
+    color: white;
+    font-family: 'Ubuntu';
+    font-weight: 700;
+    font-size: 50px;
+}
+
+
+.header_content p {
+    color: white;
+    font-family: 'Ubuntu';
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.header_content .header_topic {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.header_content .btn_download {
+    padding: 16px 50px;
+    font-size: 20px;
+    background-color: #fc6a42;
+    border: none;
+    border-radius: none;
+}
+
+.header_content .btn_download a {
+    color: white;
+    font-family: 'ubuntu';
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.header_content .btn_features {
+    padding: 16px 50px;
+    font-size: 20px;
+    background-color: #4466c9;
+    border: none;
+    border-radius: none;
+}
+
+.header_content .btn_features a {
+    color: white;
+    font-family: 'ubuntu';
+    font-weight: normal;
+    text-decoration: none;
+}
+
+#banner {
+    min-height: 550px;
+}
+
+.banner h2 {
+    font-family: ubuntu;
+    font-size: 36px;
+    font-weight: bold;
+    color: #648cff;
+    text-transform: uppercase;
+    padding-top: 133px;
+}
+
+.banner h5 {
+    font-family: ubuntu;
+    font-size: 18px;
+    color: #999999;
+    margin-top: 0px;
+    margin-bottom: 136px;
+}
+
+.banner_img {
+    width: 30%;
+    margin-top: 28px;
+}
+
+.banner_content {
+    width: 70%;
+    float: right;
+}
+
+.singel_item .banner_content h2 {
+    font-family: ubuntu;
+}
+
+.single_item .banner_content p {
+    font-family: ubuntu;
+    color: #999999;
+    font-size: 18px;
+}
+
+
+#drag_drop {
+    min-height: 940px;
+    position: relative;
+}
+
+.drag_drop h2 {
+    font-family: ubuntu;
+    font-size: 36px;
+    font-weight: bold;
+    color: #648cff;
+    text-transform: uppercase;
+    padding-top: 133px;
+}
+
+.drag_drop_p {
+    font-family: ubuntu;
+    font-size: 18px;
+    color: #999999;
+    margin-top: 0px;
+    margin-bottom: 70px;
+}
+
+.drag_drop {
+    position: relative;
+    margin-top: 80px;
+}
+
+.drag_drop_img {
+    position: absolute;
+    right: 14%;
+}
+
+.drag_drop_left {
+    position: absolute;
+    top: 305px;
+    right:90%;
+}
+
+.drag_drop_right {
+    position: absolute;
+    top: 305px;
+    left: 86%;
+}
+
+#upper_footer{
+	min-height: 432px;
+	background-color: #648CFF;
+	position: relative;
+	margin-top:200px;
+	width: 100%
+}
+.upper_footer_content{
+	padding-top: 100px;
+}
+
+.sunny{
+	position: absolute;
+	
+	margin-bottom: 0px;
+	padding-right: 50px;
+}
+#headers{
+    min-height: 150px;
+    background-color: #222222;
+}
+
+.navbar_main {
+    border: none;
+    margin-top: 20px;
+    background: transparent;
+}
+
+.navbar_main .navbar-nav > li > a {
+    padding: 16px 41px;
+    font-family: 'Ubuntu';
+    font-size: 15px;
+    color: white !important;
+    font-weight: normal;
+}
+
+.navbar_main .navbar-nav > li > a:focus {}
+
+
